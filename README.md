@@ -1,5 +1,1 @@
--Hola!!. Mi username es L1nvx, tengo 16 años y mi pasion es la cyberseguridad-pentesing.
-
--Tambien me llama la atencion otras areas como, reversing-cryptografia-pwn.
-
--Trato de aprender todo lo que pueda. Motivacion al 100%.
+root:# echo "Hola! nadie me pregunto pero yo tengo 17 años,soy de Chile 🇨🇱 , mi apodo es l1nvx y tengo una pc de gobierno 'Intel HD Graphics' 💻 " > /proc/$$/fd/1
