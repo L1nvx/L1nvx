@@ -30,8 +30,6 @@ def main():
 				print("Payload [{}] {}".format(str(cont),j))
 	else:
 		cont = 0
-		for x in cmd:
-			cmd_ += "\'"  + x + "\'"
 		for k in obs:
 			for j in exec_:
 				k = k.replace('cmd',cmd_)
