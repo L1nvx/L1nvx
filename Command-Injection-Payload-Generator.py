@@ -32,7 +32,7 @@ def main():
 		cont = 0
 		for k in obs:
 			for j in exec_:
-				k = k.replace('cmd',cmd_)
+				k = k.replace('cmd',cmd)
 				j = j.replace('cmd',k)
 				cont += 1
 				print("Payload [{}] {}".format(str(cont),j))
